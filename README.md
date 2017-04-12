@@ -1,7 +1,7 @@
 # mylab
 整理自己平时的开发环境并打包到vagrant box内,  这样可以在家或公司迅速的得到一把`瑞士军刀`.
 
-默认进去是`vagrant`用户. `su root`输入`vagrant`切换到`root`用户.
+默认进去是`vagrant`用户. `su root`输入`vagrant`切换到`root`用户. 进入后启动docker 容器后`jenkins`、`mysql`等才可以使用.
 
 ## 工具
 
@@ -45,4 +45,3 @@ docker ui, 点击http://192.168.0.88:9000 打开,密码:`letmegoletmego`
 - 下载`lab.box`, 下载地址:[http://pan.baidu.com/s/1gfBUWoV](http://pan.baidu.com/s/1gfBUWoV)
 - `git clone https://github.com/510908220/mylab.git `
 - `cd mylab && vageant up`
-

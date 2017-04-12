@@ -42,7 +42,7 @@ docker ui, 点击http://192.168.0.88:9000 打开,密码:`letmegoletmego`
 
 ## 使用
 
-- 下载`lab.box`, 下载地址随后贴出.
+- 下载`lab.box`, 下载地址:[http://pan.baidu.com/s/1gfBUWoV](http://pan.baidu.com/s/1gfBUWoV)
 - `git clone https://github.com/510908220/mylab.git `
 - `cd mylab && vageant up`
 
